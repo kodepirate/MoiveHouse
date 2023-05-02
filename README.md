@@ -1,5 +1,7 @@
 # Movie App 
 Overview
+![image](https://user-images.githubusercontent.com/93483932/235791667-b9b4487d-5ee3-4966-97d8-4bad7b61494f.png)
+
 This is a movie app that allows users to search for their favorite movies. The app is built using a combination of front-end and back-end technologies, and it utilizes an API to fetch data about movies.
 
 # Features
